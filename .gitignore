@@ -1,0 +1,55 @@
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore IDE specific files
+*.pt
+*.pth
+*.tar
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore yarn and npm specific files
+yarn.lock
+package-lock.json
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+*.save
+
+# Ignore Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Java specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore C++ specific files
+*.obj
+*.o
+*.exe
+
+# Ignore other files
+*.log
+*.out
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar
+*.pt
