@@ -1,10 +1,10 @@
 # SurgiTrack: Multi-Camera Multi-Person Tracking in Operating Rooms
 
+result video will be uploaded here
 
-https://github.com/user-attachments/assets/b5da39fa-3c4b-4364-8ac5-ad05cc99c5ba
+![variance-based filtering](https://github.com/user-attachments/assets/323321a9-f82f-4a86-b456-5b7af4f86e97)
 
-![variance-based filtering](assets/varience-filtering.png)
-![human parsing](assets/human-parsing.png)
+![human parsing](https://github.com/user-attachments/assets/144051a8-0355-4987-897a-af38547ab61f)
 
 
 
