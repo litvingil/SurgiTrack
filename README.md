@@ -85,6 +85,12 @@ The system achieved an accuracy of 80% for inter-camera assignment when intra-ca
 ### Conclusion
 SurgiTrack represents a significant advancement in enabling behavioral research in operating rooms. By addressing the unique challenges of the operating room environment, the system provides a robust foundation for analyzing medical staff interactions and workflows.
 
+## Contributors
+
+- Sapir Gershov (Advisor)
+- Omer Paz 
+- Gil Litvin 
+
 ## References
 The project relies on several key references for algorithms and models:
 - [BoT-SORT: Robust Associations Multi-Pedestrian Tracking](https://arxiv.org/abs/2206.14651)
